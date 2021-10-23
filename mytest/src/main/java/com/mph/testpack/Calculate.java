@@ -26,6 +26,7 @@ public class Calculate {
 		System.out.println(c.add(23,999,45));
 		System.out.println("Helooo");
 		System.out.println("Helooo");
+		System.out.println("Woohoo");
 	}
 	public Object sum(int x, int y) {
 		int result=0;
